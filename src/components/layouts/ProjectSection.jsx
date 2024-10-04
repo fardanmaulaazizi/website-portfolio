@@ -20,7 +20,7 @@ const ProjectSection = () => {
       ],
       type: ["Mobile", "AI"],
       description:
-        "Caries Scan is a dental caries detection app using the Single Shot MobileNetV2 algorithm, allowing users to identify caries in both photos and real-time video.",
+        "Cariescan is a dental caries detection app using the Single Shot MobileNetV2 algorithm, allowing users to identify caries in both photos and real-time video.",
     },
     {
       title: "Petme",
@@ -40,14 +40,40 @@ const ProjectSection = () => {
       title: "AlzAware",
       stack: ["flask", "tensorflow"],
       img: [
-        "/img/project/alzaware/alzaware-1.png",
-        "/img/project/alzaware/alzaware-2.png",
-        "/img/project/alzaware/alzaware-3.png",
+        "/img/project/alzaware/alzaware-1.jpg",
+        "/img/project/alzaware/alzaware-2.jpg",
+        "/img/project/alzaware/alzaware-3.jpg",
       ],
       type: ["Website", "AI"],
       description:
         "AlzAware is a website designed for the classification of Alzheimer's disease based on brain MRI results with CNN.",
       githubLink: "https://github.com/fardanmaulaazizi/AlzAware/",
+    },
+    {
+      title: "Pasar-Cabai",
+      stack: ["laravel", "mysql", "breeze"],
+      img: [
+        "/img/project/pasar-cabai/pasar-cabai-1.jpg",
+        "/img/project/pasar-cabai/pasar-cabai-2.jpg",
+        "/img/project/pasar-cabai/pasar-cabai-3.jpg",
+      ],
+      type: ["Website"],
+      description:
+        "Pasar Cabai is a web-based platform designed to record and manage information about chili storage.",
+      githubLink: "https://github.com/fardanmaulaazizi/SiGudBai",
+    },
+    {
+      title: "LibraSys API",
+      stack: ["laravel", "sanctum"],
+      img: [
+        "/img/project/librasys-api/librasys-api-1.jpg",
+        "/img/project/librasys-api/librasys-api-2.jpg",
+        "/img/project/librasys-api/librasys-api-3.jpg",
+      ],
+      type: ["Website"],
+      description:
+        "LibraSys-API (Library Management System API) is an API for managing users, books, and borrowings.",
+      githubLink: "https://github.com/fardanmaulaazizi/librasys-API",
     },
   ];
 

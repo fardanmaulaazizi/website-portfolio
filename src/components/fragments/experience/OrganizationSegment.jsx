@@ -8,10 +8,9 @@ const OrganizationSegment = () => {
       position: "Communication and Information Media Division",
       date: "Jan 2021 - Jan 2022",
       description: [
-        'Taking responsibility for the "Video Kreatif" program.',
-        "Assisting in creating the Instagram feed concept for BEM FT Unsoed.",
-        "Supporting BEM FT Unsoed in design-related activities.",
-        "Actively participating in various BEM FT Unsoed events and activities.",
+        'Led the "Video Kreatif" program, producing 6 videos.',
+        "Assisted in developing the Instagram feed concept for BEM FT Unsoed.",
+        "Actively participated in multiple events and activities organized by BEM FT Unsoed.",
       ],
     },
     {
@@ -20,10 +19,9 @@ const OrganizationSegment = () => {
       position: "Public Relations and Creative Industries Division",
       date: "Jan 2021 - Jan 2022",
       description: [
-        "Actively participating in various events and activities.",
-        "Assisting in creating the Instagram feed concept for BEM FT Unsoed.",
-        "Supporting BEM FT Unsoed in design-related activities.",
-        "Actively participating in various BEM FT Unsoed events and activities.",
+        'Led the "Syiar Via Medsos" program, producing 17 article instagram feed.',
+        "Assisted in developing the Instagram feed concept for Salman MM Teknik Unsoed.",
+        "Actively participated in multiple events and activities organized by Salman MM Teknik Unsoed.",
       ],
     },
   ];
