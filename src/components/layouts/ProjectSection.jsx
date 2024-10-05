@@ -51,7 +51,7 @@ const ProjectSection = () => {
     },
     {
       title: "Pasar-Cabai",
-      stack: ["laravel", "mysql", "breeze"],
+      stack: ["laravel", "breeze"],
       img: [
         "/img/project/pasar-cabai/pasar-cabai-1.jpg",
         "/img/project/pasar-cabai/pasar-cabai-2.jpg",
